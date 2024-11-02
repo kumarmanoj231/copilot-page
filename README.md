@@ -8,7 +8,4 @@ This project is a practice repository designed to brush up on Tailwind CSS skill
 - Node.js and npm installed on your machine
 - Tailwind CLI
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
+link :- https://copilot-page.netlify.app
